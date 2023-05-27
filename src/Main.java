@@ -6,7 +6,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
-
+        System.out.println("FLOW BRANCH");
         System.out.println("Hello, WORLD!!");
         System.out.println("Finally!");
 
